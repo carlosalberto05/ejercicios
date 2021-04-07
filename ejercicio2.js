@@ -28,9 +28,9 @@ const obtenerB = function (i, j, e) {
       j++;
       e++;
     } else {
-      i == 0;
+      i = 0;
       j++;
-      e == 0;
+      e = 0;
     }
   }
 
